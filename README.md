@@ -1,2 +1,2 @@
-# Datastructure
-Datastructure
+# Data structure
+Data Structure
